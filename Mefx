@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MEFX - Mars Exploration Foundation X</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #0d1117;
+            color: #c9d1d9;
+        }
+        header {
+            background-color: #161b22;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            color: #58a6ff;
+        }
+        nav {
+            margin: 20px 0;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #c9d1d9;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #58a6ff;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            text-align: center;
+        }
+        footer {
+            background-color: #161b22;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+        button {
+            background-color: #58a6ff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #3178c6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MEFX - Mars Exploration Foundation X</h1>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#mission">Mission</a>
+        <a href="#how-to-buy">How to Buy</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About MEFX</h2>
+        <p>MEFX (Mars Exploration Foundation X) is a revolutionary blockchain-based project dedicated to funding and supporting innovations and missions aimed at the exploration and colonization of Mars. By leveraging cutting-edge technology, MEFX empowers individuals and organizations to contribute to humanity's next giant leap.</p>
+    </section>
+
+    <section id="mission">
+        <h2>Our Mission</h2>
+        <p>Our mission is to drive progress in space exploration by creating a sustainable ecosystem for investments in technologies and startups aimed at Mars exploration. Together, we aim to make life on Mars a reality.</p>
+        <button>Learn More</button>
+    </section>
+
+    <section id="how-to-buy">
+        <h2>How to Buy MEFX</h2>
+        <ol>
+            <li>Set up a Solana-compatible wallet, such as Phantom or Sollet.</li>
+            <li>Purchase MEFX tokens on supported decentralized exchanges (DEX).</li>
+            <li>Stay updated on our latest initiatives and use cases.</li>
+        </ol>
+        <button>Buy MEFX Now</button>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions or want to collaborate? Reach out to us at <a href="mailto:contact@mefx.org">contact@mefx.org</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 MEFX - Mars Exploration Foundation X. All rights reserved.</p>
+    </footer>
+</body>
+</html>
